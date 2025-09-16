@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#217346" x="0" y="0" width="64" height="64"/>
+        <path d="M13,13 L51,13 L51,51 L13,51 L13,13 Z M16,16 L16,48 L48,48 L48,16 L16,16 Z M19,19 L45,19 L45,29 L19,29 L19,19 Z M19,32 L29,32 L29,45 L19,45 L19,32 Z M32,32 L45,32 L45,45 L32,45 L32,32 Z" fill="#FFFFFF"/>
+    </g>
+</svg>
